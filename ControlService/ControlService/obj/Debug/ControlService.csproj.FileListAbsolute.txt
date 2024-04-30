@@ -1,0 +1,12 @@
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe.config
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.pdb
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\obj\Debug\ControlService.csproj.AssemblyReference.cache
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\obj\Debug\ControlService.ProjectInstaller.resources
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\obj\Debug\ControlService.csproj.GenerateResource.cache
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\obj\Debug\ControlService.csproj.CoreCompileInputs.cache
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\obj\Debug\ControlService.exe
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\obj\Debug\ControlService.pdb
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\EasyModbus.dll
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\EasyModbus.xml
+C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\obj\Debug\ControlS.FAB4B916.Up2Date

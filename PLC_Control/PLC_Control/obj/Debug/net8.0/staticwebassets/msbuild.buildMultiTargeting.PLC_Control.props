@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PLC_Control.props" />
+</Project>

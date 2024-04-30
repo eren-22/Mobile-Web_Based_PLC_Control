@@ -1,0 +1,34 @@
+﻿'C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.InstallLog
+   assemblypath = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.InstallLog
+   assemblypath = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe
+'C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.InstallLog
+   assemblypath = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe
+Service1 EventLog kaynağı kaldırılıyor.
+Service1 hizmeti sistemden kaldırılıyor...
+Service1 hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.InstallLog
+   assemblypath = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.InstallLog
+   assemblypath = C:\Users\eren1\OneDrive\Masaüstü\CSharpProjects\ControlService\ControlService\bin\Debug\ControlService.exe

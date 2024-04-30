@@ -1,0 +1,6 @@
+@PLC_Control_HostAddress = http://localhost:5254
+
+GET {{PLC_Control_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

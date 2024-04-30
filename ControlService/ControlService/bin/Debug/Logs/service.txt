@@ -1,0 +1,198 @@
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: True, Station: 1
+Değer başarıyla PLC'ye gönderildi: True
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
+Features:Id: 1, Value: False, Station: 1
+Değer başarıyla PLC'ye gönderildi: False
