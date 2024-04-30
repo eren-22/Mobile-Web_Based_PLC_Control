@@ -27,3 +27,6 @@ Proje üç ana bölümden oluşur:
 
 ## Proje Arayüzünün Kullanımı
 https://github.com/eren-22/Mobile-Web_Based_PLC_Control/assets/75755072/4e81e7ca-098a-4947-b54f-76574740b755
+
+##asdf
+![Ekran görüntüsü 2024-04-30 163414](https://github.com/eren-22/Mobile-Web_Based_PLC_Control/assets/75755072/905fd7ff-1237-4882-a513-dc5bea1d14c3)
