@@ -25,4 +25,5 @@ Proje üç ana bölümden oluşur:
 ## Kullanım
 1. Android uygulamasında PLC cihazının kontrolü için gerekli işlemleri gerçekleştirin.
 
-## Proje Arayüzünün Kullanımı   
+## Proje Arayüzünün Kullanımı
+https://github.com/eren-22/Mobile-Web_Based_PLC_Control/assets/75755072/4e81e7ca-098a-4947-b54f-76574740b755
