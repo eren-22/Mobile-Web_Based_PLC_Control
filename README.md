@@ -28,5 +28,10 @@ Proje üç ana bölümden oluşur:
 ## Proje Arayüzünün Kullanımı
 https://github.com/eren-22/Mobile-Web_Based_PLC_Control/assets/75755072/4e81e7ca-098a-4947-b54f-76574740b755
 
-##asdf
+## Log Kayıtları
 ![Ekran görüntüsü 2024-04-30 163414](https://github.com/eren-22/Mobile-Web_Based_PLC_Control/assets/75755072/905fd7ff-1237-4882-a513-dc5bea1d14c3)
+
+Servis, her 5 saniyede bir PLC cihazına gönderilen "value" değerlerini kontrol eder ve bu değerleri bir metin dosyasına kaydeder.
+
+## Not
+Projede bulunan ip adresi, port numarası, connection string vs. gibi yapılar gizlenmiştir.
